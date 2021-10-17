@@ -1,0 +1,18 @@
+Kullanım Talimatları:
+1- Windows kullanıyorsanız baslat.bat dosyasını not defteri ile açıp RuinGüvenlik01 yerini kendi nickiniz ile değiştirip kaydedin.
+   Linux kullanıyorsanız baslat.sh dosyasını not defteri ile açıp RuinGüvenlik01 yerini kendi nickiniz ile değiştirip kaydedin.
+2- Hesap.txt dosyasını Not Defteri ile açın ve şifre bölümünü şifrenizle değiştirin.
+3- Windows kullanıyorsanız baslat.bat dosyasını, Linux kullanıyorsanız baslat.sh dosyasını çalıştırın.
+4- Tebrikler RuinCraft'a konsol uygulaması ile girdiniz.
+
+Sunucu kapandığında ya da atıldığınızda otomatik tekrardan bağlanmaya çalışacaktır. Böylelikle 7/24 AFK kalabilirsiniz.
+
+Linux İçin Gelişmiş Talimatlar:
+  Linux kullanıyorsanız öncelike mono-complete paketini kurmanız gerekiyor.
+  Centos için:
+  yum install mono-complete
+
+  Ubuntu ve Debian İçin:
+  apt install mono-complete
+
+  Bu komutlar sizin için çalışmazsa Google üzerinde "How to install mono-complete Linux" diye aratıp daha detaylı bilgi bulabilirsiniz.

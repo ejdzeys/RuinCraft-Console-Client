@@ -1,0 +1,2 @@
+send /login şifre
+wait 3 seconds
